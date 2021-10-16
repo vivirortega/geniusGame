@@ -4,5 +4,5 @@ The Genius game is all about getting the colors right as they flash on the scree
 </h1>Technologies used</h1>
 Javascript, CSS, HTML.
 
-<h1>Considerações finais </h1>
+<h1>Final considerations.</h1>
 Project created for the Javascript class of the Digital Innovation One bootcamp.
